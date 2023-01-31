@@ -1,3 +1,3 @@
 import { setPublicPath } from 'systemjs-webpack-interop'
 
-setPublicPath('@vue2-todo')
+setPublicPath('@vue-mfe/todo')
